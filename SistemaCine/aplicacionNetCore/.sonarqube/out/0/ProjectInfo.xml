@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>aplicacionNetCore</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>4c822776-193b-4169-9076-a2cb04311978</ProjectGuid>
+  <FullPath>E:\2021-I\calidad de sw\u1\Nueva carpeta\SlnSistemaCine\aplicacionNetCore\aplicacionNetCore.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="E:\2021-I\calidad de sw\u1\Nueva carpeta\SlnSistemaCine\aplicacionNetCore\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">E:\2021-I\calidad de sw\u1\Nueva carpeta\SlnSistemaCine\aplicacionNetCore\bin\Debug\net5.0\aplicacionNetCore.dll.RoslynCA.json|E:\2021-I\calidad de sw\u1\Nueva carpeta\SlnSistemaCine\aplicacionNetCore\bin\Debug\net5.0\aplicacionNetCore.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">E:\2021-I\calidad de sw\u1\Nueva carpeta\SlnSistemaCine\aplicacionNetCore\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>
